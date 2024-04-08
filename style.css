@@ -1,0 +1,19 @@
+a{
+    color:red; 
+    text-decoration: none;
+    
+    border:red, 5px, solid;
+  }
+
+  h1{
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .saw{
+    color:gray;
+  }
+
+  #active{
+    color:black;
+  }
